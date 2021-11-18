@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bg-glitch.png">
+	<!-- Created with Adobe Animate version 21.0.4.39603 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="glitch0000" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0001" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0002" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0003" x="2560" y="0" width="2609" height="2015" frameX="-592" frameY="0" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0004" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0005" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0006" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0007" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0008" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0009" x="0" y="2015" width="4138" height="1950" frameX="0" frameY="-57" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0010" x="0" y="2015" width="4138" height="1950" frameX="0" frameY="-57" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0011" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0012" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0013" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0014" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0015" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0016" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0017" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0018" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+	<SubTexture name="glitch0019" x="0" y="0" width="2560" height="1950" frameX="-616" frameY="-32" frameWidth="4138" frameHeight="2015"/>
+</TextureAtlas>
